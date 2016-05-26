@@ -1,0 +1,47 @@
+le.bach
+678
+Le Duy Bach
+1997-10-08
+235 NVC Q5
+0
+1
+1
+pvdan
+678
+Pham Vi Dan
+1997-09-01
+134 VVT
+1
+1
+physics
+1
+1
+dbtien
+56789:;<=>
+Dinh Ba Tien
+1980-12-04
+101 NTMK
+1
+1
+CS
+1
+1
+1551003
+qjiz~gfhm678
+Le Duy Bach
+1997-08-08
+263 THD
+2
+1
+1
+npduc
+6789:;
+Nguyen Phu Duc
+1997-09-10
+1348 HTP
+1
+2
+math
+chemistry
+1
+1

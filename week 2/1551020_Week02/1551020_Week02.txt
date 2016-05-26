@@ -1,0 +1,43 @@
+I/ Source code 1.1: 
+The printed out text is :
+ 1.200000
+6617612
+400
+
+Reason: 1/ Because fp points to 1.2 therefore *fp prints out 1.20000.
+		2/ ip1 has the address 6617612 so it prints out 6617612.
+		3/ ip1 first point to x, then points to z, then change its pointed value to x, then ... Lastly, its value equal the value that ip2 points to plus 300 = 400.
+
+II/ Source code 1.2:
+Result : 
+4
+1
+4
+
+Reason: on a 32bit system, a pointer is 4 bytes in width, a char is 1 in width and a long is 4 in width.
+
+III/ Source code 1.3:
+
+Result: (Complile error)cannot print out anything, code doesnt work because pointer *abc doesnt exist.
+
+IV/ Source code 1.4:
+
+Result: ( Runtime error) Cannot print out anything because the code doesnt have "Cout". Besides, new int is often used to take input from the user, so it causes error when used like that.
+
+V/ Source code 1.5:
+
+Result : It's a infinte loop which prints out from 1 to infinity because it is the value stored in *number variable.
+
+VI/ Source code 1.6:
+
+Result : 
+...
+...
+4 5 6 7 9 12
+
+Reason: The first loop returns check = 0 ( no element in a[] is equal to N). The firts conditional statement returns " ... ". the second loop check if there is an element in the array which is bigger than N( and yes we have 6). The other loops move all the elements from 6 aside to make place to insert 5. 
+
+
+
+
+

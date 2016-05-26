@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF - 8"?><userList>
+
+<Username>le.bach</Username>
+<Name>Le Duy Bach</Name>
+<DateOfBirth>1997-10-08</DateOfBirth>
+<AccType>Admin</Acctype>
+<Address>235 NVC Q5</Address>
+<Sex>Male</Sex>
+<Status>Activated</Status>
+
+<Username>pvdan</Username>
+<Name>Pham Vi Dan</Name>
+<DateOfBirth>1997-09-01</DateOfBirth>
+<AccType>Teacher</Acctype>
+<Address>134 VVT</Address>
+<Sex>Male</Sex>
+<Status>Activated</Status>
+
+<Username>dbtien</Username>
+<Name>Dinh Ba Tien</Name>
+<DateOfBirth>1980-12-04</DateOfBirth>
+<AccType>Teacher</Acctype>
+<Address>101 NTMK</Address>
+<Sex>Male</Sex>
+<Status>Activated</Status>
+
+<Username>1551003</Username>
+<Name>Le Duy Bach</Name>
+<DateOfBirth>1997-08-08</DateOfBirth>
+<AccType>Student</Acctype>
+<Address>263 THD</Address>
+<Sex>Male</Sex>
+<Status>Activated</Status>
+
+<Username>npduc</Username>
+<Name>Nguyen Phu Duc</Name>
+<DateOfBirth>1997-09-10</DateOfBirth>
+<AccType>Teacher</Acctype>
+<Address>1348 HTP</Address>
+<Sex>Male</Sex>
+<Status>Activated</Status>
+
+</userList>

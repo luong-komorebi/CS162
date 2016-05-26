@@ -1,0 +1,54 @@
+1
+chemistry
+Le Duy Bach
+Water is ...
+3
+A. H2O
+B. H2
+C. H2O2
+Answer: A
+1
+0
+2
+math
+Le Duy Bach
+5 + 5 = ... 
+3
+A. 10
+B. 20
+C. 15
+Answer: A
+1
+0
+3
+math
+Le Duy Bach
+1 + 1 = ?
+3
+A. 1
+B. 2
+C. 3
+Answer: B
+1
+0
+4
+physics
+Le Duy Bach2
+Force = Mass x ....
+3
+A. Velocity
+B. Acceleration
+C. Momentum
+Answer: B
+1
+0
+5
+chemistry
+Le Duy Bach
+Na is
+2
+A. Soldium
+B. Potassium
+Answer: A
+1
+0

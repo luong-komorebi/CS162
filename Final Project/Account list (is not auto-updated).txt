@@ -1,0 +1,19 @@
+Admin
+le.bach
+123
+
+Teacher (Physics)
+pvdan
+123
+
+Teacher (Computer Science)
+dbtien
+0123456789
+
+Student
+1551003
+leduybach123
+
+Teacher (math, chemistry)
+npduc
+123456
