@@ -1,1 +1,0 @@
-./Debug/ex01.1_fraction.cpp.o ./Debug/ex01.1_main.cpp.o ./Debug/ex01.2_fraction.cpp.o ./Debug/ex01.2_main.cpp.o ./Debug/ex02.2_function.cpp.o ./Debug/ex02.2_main.cpp.o ./Debug/ex02.3_function.cpp.o ./Debug/ex02.3_main.cpp.o ./Debug/ex2.1_function.cpp.o ./Debug/ex2.1_main.cpp.o
